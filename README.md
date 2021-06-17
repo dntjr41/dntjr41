@@ -8,10 +8,9 @@
 * Machine learning
 * Deep learning (DeepFake, Lip Sync)
 * Google Cloud Platform
-* AWS
 
-# Technology Stacks
-#007396 #F7DF1E
+# Stack
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
 
 
 # My Projects
