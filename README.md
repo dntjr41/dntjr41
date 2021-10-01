@@ -8,6 +8,8 @@
 * Database
 
 # Stack
+* ADsP (국가공인 - 데이터분석 준전문가) <br>
+* SQLD (국가공인 - SQL 개발자) <br><br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" /> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white" />
 <br>
 
