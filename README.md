@@ -3,7 +3,7 @@
 * Data scientist
 
 # Interests
-* Machine learning
+* Machine learning (Recommendation Algorithm, Federated Learning) 
 * Deep learning (DeepFake, Lip Sync)
 * Database
 
@@ -22,10 +22,13 @@
 
 # My Projects
 * [Graduation Project (DeepFake + Lip Sync)](https://github.com/dntjr41/Graduation_project)
+* [Machine Learning (Auto ML +  Online shopper's intention)](https://github.com/dntjr41/MachineLearning_termProject)
+* [Graphics (Red Light, Green Light)](https://github.com/dntjr41/Graphics_termProject)
 * [Data Science (Heart Stroke Prediction)](https://github.com/dntjr41/Data-Science_Term-Project)
 * [Mobile Programming (Product Sharing System)](https://github.com/dntjr41/Mobile-Programming-14_term-project)
 * [Software Engineering (Libary Reservation System)](https://github.com/dntjr41/Software_Engineering-Library_Reservation_Sys)
 * [Network (Java Chatting Program)](https://github.com/dntjr41/NW_termproject_Team10)
+* [Algorithm (Gachon Castle)](https://github.com/dntjr41/Algorithm_TermP)
 * [Robotics (Theft Prevention System)](https://github.com/dntjr41/Robotics-Theft_Prevention_System)
 * [Web Programming (Wooseok's Travel Diary)](https://github.com/dntjr41/Web_programming-Wooseok_travel_diary)
 <br>
