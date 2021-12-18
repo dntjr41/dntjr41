@@ -1,4 +1,4 @@
-# Gachon University (Junior)
+# Gachon University ()
 * Gmail - qkqh8639@gmail.com
 * Data scientist
 
