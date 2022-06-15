@@ -1,11 +1,10 @@
 # Gachon University (Senior)
 * Gmail - qkqh8639@gmail.com
-* Data scientist
 
 # Interests
-* Machine learning (Recommendation Algorithm, Federated Learning) 
+* Graph Network (Community Detection & Deception)
+* Machine learning (Federated Learning) 
 * Deep learning (DeepFake, Lip Sync)
-* Database
 
 # Stack
 * ADsP (국가공인 - 데이터분석 준전문가) <br>
