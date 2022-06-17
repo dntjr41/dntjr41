@@ -7,6 +7,7 @@
 * Deep learning (DeepFake, Lip Sync)
 
 # Stack
+* 정보처리기사 (국가공인) <br>
 * ADsP (국가공인 - 데이터분석 준전문가) <br>
 * SQLD (국가공인 - SQL 개발자) <br><br>
 
