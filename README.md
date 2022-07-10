@@ -24,7 +24,11 @@
 <br>
 
 # My Projects
-* [Graduation Project (DeepFake + Lip Sync)](https://github.com/dntjr41/Graduation_project)
+* [Community Recovery Paper](https://github.com/dntjr41/Community_Recovery_Paper) 
+* [Graduation Project Model(DeepFake + Lip Sync)](https://github.com/dntjr41/Graduation_project/wiki)
+* [Graduation Project Flutter(DeepFake + Lip Sync)](https://github.com/dntjr41/Flutter/wiki)
+* [Computer Vision (Hint Based Image Colorization)](https://github.com/dntjr41/CV_TermP/wiki)
+* [Deep Learning (E Scooter Helmet Problem)](https://github.com/dntjr41/DeepLearning_TermP/wiki)
 * [Machine Learning (Auto ML +  Online shopper's intention)](https://github.com/dntjr41/MachineLearning_termProject)
 * [Graphics (Red Light, Green Light)](https://github.com/dntjr41/Graphics_termProject)
 * [Data Science (Heart Stroke Prediction)](https://github.com/dntjr41/Data-Science_Term-Project)
