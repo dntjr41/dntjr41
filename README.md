@@ -1,5 +1,6 @@
 # Gachon University (Senior)
-* Gmail - qkqh8639@gmail.com
+* Personal Mail - qkqh8639@gmail.com
+* Business Mail - dntjr41@g.skku.edu
 
 # Interests
 * Graph Network (Community Detection & Deception)
