@@ -1,4 +1,4 @@
-# Gachon University (Senior)
+# 성균관대학교 석사 1기
 * Personal Mail - qkqh8639@gmail.com
 * Business Mail - dntjr41@g.skku.edu
 
