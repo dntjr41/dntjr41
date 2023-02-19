@@ -3,9 +3,7 @@
 * Business Mail - dntjr41@g.skku.edu
 
 # Interests
-* Graph Network (Community Detection & Deception)
-* Machine learning (Federated Learning) 
-* Deep learning (DeepFake, Lip Sync)
+* Graph Network & Federated Learning
 
 # Stack
 * 정보처리기사, ADsP (데이터분석 준전문가), SQLD (SQL 개발자) <br><br>
