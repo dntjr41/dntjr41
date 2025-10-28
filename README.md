@@ -1,4 +1,4 @@
-# 성균관대학교 박사 1기
+# 성균관대학교 박사 2기
 * Personal Mail - qkqh8639@gmail.com
 * Business Mail - dntjr41@g.skku.edu
 
